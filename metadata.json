@@ -1,0 +1,8 @@
+{
+  "name": "Kasir Pesanan",
+  "description": "Aplikasi kasir warung makan sederhana untuk mencatat pesanan, kelola menu, dan rekap penjualan harian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
